@@ -1,0 +1,634 @@
+{
+ "worlds": [
+  {
+   "id": "city_stroll",
+   "titles": {
+    "en": "City Stroll",
+    "ru": "Прогулка по городу",
+    "uk": "Прогулянка містом"
+   },
+   "collection": "main",
+   "scenes": 3,
+   "free": true,
+   "new": false,
+   "source": "asset",
+   "portalStyle": "ball",
+   "cover": "assets/covers/flower_square.webp"
+  },
+  {
+   "id": "artist_walk",
+   "titles": {
+    "en": "Artist's Walk",
+    "ru": "Прогулка художника",
+    "uk": "Прогулянка художника"
+   },
+   "collection": "main",
+   "scenes": 3,
+   "free": false,
+   "new": false,
+   "source": "remote",
+   "portalStyle": "ball",
+   "cover": "assets/covers/park_painter.webp"
+  },
+  {
+   "id": "paris_days",
+   "titles": {
+    "en": "Paris Days",
+    "ru": "Парижские деньки",
+    "uk": "Паризькі дні"
+   },
+   "collection": "main",
+   "scenes": 3,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "balloon",
+   "cover": "assets/covers/paris_walk.webp"
+  },
+  {
+   "id": "cozy_corners",
+   "titles": {
+    "en": "Cozy Corners",
+    "ru": "Уютные уголки",
+    "uk": "Затишні куточки"
+   },
+   "collection": "main",
+   "scenes": 3,
+   "free": false,
+   "new": false,
+   "source": "remote",
+   "portalStyle": "window",
+   "cover": "assets/covers/garden_cafe.webp"
+  },
+  {
+   "id": "fun_weekend",
+   "titles": {
+    "en": "Fun Weekend",
+    "ru": "Весёлые выходные",
+    "uk": "Веселі вихідні"
+   },
+   "collection": "main",
+   "scenes": 3,
+   "free": false,
+   "new": false,
+   "source": "remote",
+   "portalStyle": "balloon",
+   "cover": "assets/covers/autumn_fair.webp"
+  },
+  {
+   "id": "day_out",
+   "titles": {
+    "en": "Day Out",
+    "ru": "День на природе",
+    "uk": "День на природі"
+   },
+   "collection": "main",
+   "scenes": 3,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ball",
+   "cover": "assets/covers/forest_camp.webp"
+  },
+  {
+   "id": "star_stage",
+   "titles": {
+    "en": "Star Stage",
+    "ru": "Звёздная сцена",
+    "uk": "Зіркова сцена"
+   },
+   "collection": "main",
+   "scenes": 3,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "window",
+   "cover": "assets/covers/star_lobby.webp"
+  },
+  {
+   "id": "italian_quarter",
+   "titles": {
+    "en": "Italian Quarter",
+    "ru": "Итальянский квартал",
+    "uk": "Італійський квартал"
+   },
+   "collection": "main",
+   "scenes": 3,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "balloon",
+   "cover": "assets/covers/venice_canal.webp"
+  },
+  {
+   "id": "italian_coast",
+   "titles": {
+    "en": "Italian Coast",
+    "ru": "Итальянское побережье",
+    "uk": "Італійське узбережжя"
+   },
+   "collection": "main",
+   "scenes": 3,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "window",
+   "cover": "assets/covers/amalfi_lemons.webp"
+  },
+  {
+   "id": "sunny_tuscany",
+   "titles": {
+    "en": "Sunny Tuscany",
+    "ru": "Солнечная Тоскана",
+    "uk": "Сонячна Тоскана"
+   },
+   "collection": "main",
+   "scenes": 3,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "balloon",
+   "cover": "assets/covers/tuscany_vineyard.webp"
+  },
+  {
+   "id": "new_year_town",
+   "titles": {
+    "en": "New Year Town",
+    "ru": "Новогодний город",
+    "uk": "Новорічне місто"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ornament",
+   "cover": "assets/covers/winter_market.webp"
+  },
+  {
+   "id": "winter_tale",
+   "titles": {
+    "en": "Winter Tale",
+    "ru": "Зимняя сказка",
+    "uk": "Зимова казка"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "globe",
+   "cover": "assets/covers/snowy_village.webp"
+  },
+  {
+   "id": "ice_skating",
+   "titles": {
+    "en": "Ice Skating",
+    "ru": "На катке",
+    "uk": "На ковзанці"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ornament",
+   "cover": "assets/covers/ice_rink.webp"
+  },
+  {
+   "id": "forest_party",
+   "titles": {
+    "en": "Forest Party",
+    "ru": "Праздник в лесу",
+    "uk": "Свято в лісі"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "globe",
+   "cover": "assets/covers/forest_party.webp"
+  },
+  {
+   "id": "cozy_gifts",
+   "titles": {
+    "en": "Gifts by the Fire",
+    "ru": "Подарки у камина",
+    "uk": "Подарунки біля каміна"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "window",
+   "cover": "assets/covers/gift_workshop.webp"
+  },
+  {
+   "id": "fireside_rink",
+   "titles": {
+    "en": "Fireside Evening",
+    "ru": "Вечер у камина",
+    "uk": "Вечір біля каміна"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ornament",
+   "cover": "assets/covers/fireplace_evening.webp"
+  },
+  {
+   "id": "santas_workshop",
+   "titles": {
+    "en": "Gift Workshop",
+    "ru": "Мастерская подарков",
+    "uk": "Майстерня подарунків"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "globe",
+   "cover": "assets/covers/santa_workshop.webp"
+  },
+  {
+   "id": "sweet_bakery",
+   "titles": {
+    "en": "Sweet Bakery",
+    "ru": "Сладкая пекарня",
+    "uk": "Солодка пекарня"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "window",
+   "cover": "assets/covers/sweet_bakery.webp"
+  },
+  {
+   "id": "toy_shop",
+   "titles": {
+    "en": "Toy Shop",
+    "ru": "Лавка игрушек",
+    "uk": "Крамниця іграшок"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ornament",
+   "cover": "assets/covers/toy_shop.webp"
+  },
+  {
+   "id": "winter_library",
+   "titles": {
+    "en": "Winter Library",
+    "ru": "Зимняя библиотека",
+    "uk": "Зимова бібліотека"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "globe",
+   "cover": "assets/covers/winter_library.webp"
+  },
+  {
+   "id": "holiday_station",
+   "titles": {
+    "en": "Holiday Station",
+    "ru": "Праздничный вокзал",
+    "uk": "Святковий вокзал"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ball",
+   "cover": "assets/covers/gift_crafts.webp"
+  },
+  {
+   "id": "warm_cafe",
+   "titles": {
+    "en": "Warm Café",
+    "ru": "Тёплое кафе",
+    "uk": "Тепле кафе"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "window",
+   "cover": "assets/covers/warm_cafe.webp"
+  },
+  {
+   "id": "attic_gifts",
+   "titles": {
+    "en": "Attic of Gifts",
+    "ru": "Чердак с подарками",
+    "uk": "Горище з подарунками"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ornament",
+   "cover": "assets/covers/attic_gifts.webp"
+  },
+  {
+   "id": "festive_hall",
+   "titles": {
+    "en": "Festive Hall",
+    "ru": "Праздничный зал",
+    "uk": "Святкова зала"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "globe",
+   "cover": "assets/covers/festive_hall.webp"
+  },
+  {
+   "id": "sakura_festival",
+   "titles": {
+    "en": "Sakura Festival",
+    "ru": "Праздник сакуры",
+    "uk": "Свято сакури"
+   },
+   "collection": "japan",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ball",
+   "cover": "assets/covers/shrine_festival.webp"
+  },
+  {
+   "id": "tokyo_walk",
+   "titles": {
+    "en": "Tokyo Walk",
+    "ru": "Прогулка по Токио",
+    "uk": "Прогулянка Токіо"
+   },
+   "collection": "japan",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "balloon",
+   "cover": "assets/covers/tokyo_street.webp"
+  },
+  {
+   "id": "zen_garden",
+   "titles": {
+    "en": "Zen Garden",
+    "ru": "Сад тишины",
+    "uk": "Сад тиші"
+   },
+   "collection": "japan",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "window",
+   "cover": "assets/covers/bamboo_picnic.webp"
+  },
+  {
+   "id": "rainy_kyoto",
+   "titles": {
+    "en": "Rainy Kyoto",
+    "ru": "Дождливый Киото",
+    "uk": "Дощовий Кіото"
+   },
+   "collection": "japan",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ball",
+   "cover": "assets/covers/rainy_kyoto.webp"
+  },
+  {
+   "id": "autumn_onsen",
+   "titles": {
+    "en": "Autumn Onsen",
+    "ru": "Осень и онсэн",
+    "uk": "Осінь і онсен"
+   },
+   "collection": "japan",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "window",
+   "cover": "assets/covers/autumn_temple.webp"
+  },
+  {
+   "id": "tea_veranda",
+   "titles": {
+    "en": "Tea on the Veranda",
+    "ru": "Чай на веранде",
+    "uk": "Чай на веранді"
+   },
+   "collection": "japan",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "window",
+   "cover": "assets/covers/cat_veranda.webp"
+  },
+  {
+   "id": "torii_pond",
+   "titles": {
+    "en": "Torii and the Pond",
+    "ru": "Тории у пруда",
+    "uk": "Торії біля ставка"
+   },
+   "collection": "japan",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ball",
+   "cover": "assets/covers/torii_bunny.webp"
+  },
+  {
+   "id": "lantern_onsen",
+   "titles": {
+    "en": "Lanterns and Onsen",
+    "ru": "Фонарики и онсэн",
+    "uk": "Ліхтарики й онсен"
+   },
+   "collection": "japan",
+   "scenes": 2,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "balloon",
+   "cover": "assets/covers/lantern_shop.webp"
+  },
+  {
+   "id": "giza_explorers",
+   "titles": {
+    "en": "Pyramids of Giza",
+    "ru": "Пирамиды Гизы",
+    "uk": "Піраміди Гізи"
+   },
+   "collection": "wonders",
+   "scenes": 1,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ball",
+   "cover": "assets/covers/giza_explorers.webp"
+  },
+  {
+   "id": "rhodes_colossus",
+   "titles": {
+    "en": "Colossus of Rhodes",
+    "ru": "Колосс Родосский",
+    "uk": "Колос Родоський"
+   },
+   "collection": "wonders",
+   "scenes": 1,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "balloon",
+   "cover": "assets/covers/rhodes_colossus.webp"
+  },
+  {
+   "id": "zeus_statue",
+   "titles": {
+    "en": "Statue of Zeus",
+    "ru": "Статуя Зевса",
+    "uk": "Статуя Зевса"
+   },
+   "collection": "wonders",
+   "scenes": 1,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "window",
+   "cover": "assets/covers/zeus_statue.webp"
+  },
+  {
+   "id": "athens_acropolis",
+   "titles": {
+    "en": "Athenian Acropolis",
+    "ru": "Афинский акрополь",
+    "uk": "Афінський акрополь"
+   },
+   "collection": "wonders",
+   "scenes": 1,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ball",
+   "cover": "assets/covers/athens_acropolis.webp"
+  },
+  {
+   "id": "babylon_gardens",
+   "titles": {
+    "en": "Hanging Gardens",
+    "ru": "Висячие сады",
+    "uk": "Висячі сади"
+   },
+   "collection": "wonders",
+   "scenes": 1,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "window",
+   "cover": "assets/covers/babylon_gardens.webp"
+  },
+  {
+   "id": "artemis_temple",
+   "titles": {
+    "en": "Temple of Artemis",
+    "ru": "Храм Артемиды",
+    "uk": "Храм Артеміди"
+   },
+   "collection": "wonders",
+   "scenes": 1,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "balloon",
+   "cover": "assets/covers/artemis_temple.webp"
+  },
+  {
+   "id": "sphinx_picnic",
+   "titles": {
+    "en": "Tea by the Sphinx",
+    "ru": "Чай у Сфинкса",
+    "uk": "Чай біля Сфінкса"
+   },
+   "collection": "wonders",
+   "scenes": 1,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ball",
+   "cover": "assets/covers/sphinx_picnic.webp"
+  },
+  {
+   "id": "halicarnassus",
+   "titles": {
+    "en": "Mausoleum",
+    "ru": "Мавзолей в Галикарнасе",
+    "uk": "Мавзолей у Галікарнасі"
+   },
+   "collection": "wonders",
+   "scenes": 1,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "window",
+   "cover": "assets/covers/halicarnassus.webp"
+  },
+  {
+   "id": "babylon_tea",
+   "titles": {
+    "en": "Babylon Tea Party",
+    "ru": "Чаепитие в Вавилоне",
+    "uk": "Чаювання у Вавилоні"
+   },
+   "collection": "wonders",
+   "scenes": 1,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "balloon",
+   "cover": "assets/covers/babylon_tea.webp"
+  },
+  {
+   "id": "colosseum_cafe",
+   "titles": {
+    "en": "Café by the Colosseum",
+    "ru": "Кафе у Колизея",
+    "uk": "Кафе біля Колізею"
+   },
+   "collection": "wonders",
+   "scenes": 1,
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ball",
+   "cover": "assets/covers/colosseum_cafe.webp"
+  }
+ ]
+}
