@@ -815,6 +815,22 @@
    "source": "remote",
    "portalStyle": "balloon",
    "cover": "assets/covers/krakow_xmas.webp"
+  },
+  {
+   "id": "cologne",
+   "titles": {
+    "en": "Cologne",
+    "ru": "Кёльн",
+    "uk": "Кельн"
+   },
+   "collection": "newyearcities",
+   "scenes": 1,
+   "rev": "76fdd4de3e",
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "globe",
+   "cover": "assets/covers/cologne_xmas.webp"
   }
  ]
 }
