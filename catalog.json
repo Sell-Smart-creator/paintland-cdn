@@ -703,6 +703,54 @@
    "source": "remote",
    "portalStyle": "globe",
    "cover": "assets/covers/gingerbread_town.webp"
+  },
+  {
+   "id": "copenhagen",
+   "titles": {
+    "en": "Copenhagen",
+    "ru": "Копенгаген",
+    "uk": "Копенгаген"
+   },
+   "collection": "newyearcities",
+   "scenes": 1,
+   "rev": "3accf02b12",
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ornament",
+   "cover": "assets/covers/copenhagen_xmas.webp"
+  },
+  {
+   "id": "new_york",
+   "titles": {
+    "en": "New York",
+    "ru": "Нью-Йорк",
+    "uk": "Нью-Йорк"
+   },
+   "collection": "newyearcities",
+   "scenes": 1,
+   "rev": "7276cbc66b",
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "window",
+   "cover": "assets/covers/new_york_xmas.webp"
+  },
+  {
+   "id": "amsterdam",
+   "titles": {
+    "en": "Amsterdam",
+    "ru": "Амстердам",
+    "uk": "Амстердам"
+   },
+   "collection": "newyearcities",
+   "scenes": 1,
+   "rev": "1a2f86bf3f",
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "balloon",
+   "cover": "assets/covers/amsterdam_xmas.webp"
   }
  ]
 }
