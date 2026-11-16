@@ -1,38 +1,6 @@
 {
  "worlds": [
   {
-   "id": "city_stroll",
-   "titles": {
-    "en": "City Stroll",
-    "ru": "Прогулка по городу",
-    "uk": "Прогулянка містом"
-   },
-   "collection": "main",
-   "scenes": 3,
-   "rev": "49ffe080e1",
-   "free": true,
-   "new": false,
-   "source": "asset",
-   "portalStyle": "ball",
-   "cover": "assets/covers/flower_square.webp"
-  },
-  {
-   "id": "artist_walk",
-   "titles": {
-    "en": "Artist's Walk",
-    "ru": "Прогулка художника",
-    "uk": "Прогулянка художника"
-   },
-   "collection": "main",
-   "scenes": 3,
-   "rev": "85e9b0022d",
-   "free": false,
-   "new": false,
-   "source": "remote",
-   "portalStyle": "ball",
-   "cover": "assets/covers/park_painter.webp"
-  },
-  {
    "id": "paris_days",
    "titles": {
     "en": "Paris Days",
@@ -42,11 +10,43 @@
    "collection": "main",
    "scenes": 3,
    "rev": "f354712d4b",
+   "free": true,
+   "new": false,
+   "source": "asset",
+   "portalStyle": "balloon",
+   "cover": "assets/covers/paris_walk.webp"
+  },
+  {
+   "id": "day_out",
+   "titles": {
+    "en": "Day Out",
+    "ru": "День на природе",
+    "uk": "День на природі"
+   },
+   "collection": "main",
+   "scenes": 3,
+   "rev": "3bb2cf021c",
    "free": false,
    "new": false,
    "source": "remote",
-   "portalStyle": "balloon",
-   "cover": "assets/covers/paris_walk.webp"
+   "portalStyle": "ball",
+   "cover": "assets/covers/forest_camp.webp"
+  },
+  {
+   "id": "city_stroll",
+   "titles": {
+    "en": "City Stroll",
+    "ru": "Прогулка по городу",
+    "uk": "Прогулянка містом"
+   },
+   "collection": "main",
+   "scenes": 3,
+   "rev": "49ffe080e1",
+   "free": false,
+   "new": false,
+   "source": "remote",
+   "portalStyle": "ball",
+   "cover": "assets/covers/flower_square.webp"
   },
   {
    "id": "cozy_corners",
@@ -81,20 +81,20 @@
    "cover": "assets/covers/autumn_fair.webp"
   },
   {
-   "id": "day_out",
+   "id": "italian_quarter",
    "titles": {
-    "en": "Day Out",
-    "ru": "День на природе",
-    "uk": "День на природі"
+    "en": "Italian Quarter",
+    "ru": "Итальянский квартал",
+    "uk": "Італійський квартал"
    },
    "collection": "main",
    "scenes": 3,
-   "rev": "3bb2cf021c",
+   "rev": "ca326dd1bd",
    "free": false,
    "new": false,
    "source": "remote",
-   "portalStyle": "ball",
-   "cover": "assets/covers/forest_camp.webp"
+   "portalStyle": "balloon",
+   "cover": "assets/covers/venice_canal.webp"
   },
   {
    "id": "star_stage",
@@ -113,20 +113,20 @@
    "cover": "assets/covers/star_lobby.webp"
   },
   {
-   "id": "italian_quarter",
+   "id": "artist_walk",
    "titles": {
-    "en": "Italian Quarter",
-    "ru": "Итальянский квартал",
-    "uk": "Італійський квартал"
+    "en": "Artist's Walk",
+    "ru": "Прогулка художника",
+    "uk": "Прогулянка художника"
    },
    "collection": "main",
    "scenes": 3,
-   "rev": "ca326dd1bd",
+   "rev": "85e9b0022d",
    "free": false,
    "new": false,
    "source": "remote",
-   "portalStyle": "balloon",
-   "cover": "assets/covers/venice_canal.webp"
+   "portalStyle": "ball",
+   "cover": "assets/covers/park_painter.webp"
   },
   {
    "id": "italian_coast",
