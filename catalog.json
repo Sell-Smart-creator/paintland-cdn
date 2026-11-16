@@ -751,6 +751,70 @@
    "source": "remote",
    "portalStyle": "balloon",
    "cover": "assets/covers/amsterdam_xmas.webp"
+  },
+  {
+   "id": "edinburgh",
+   "titles": {
+    "en": "Edinburgh",
+    "ru": "Эдинбург",
+    "uk": "Единбург"
+   },
+   "collection": "newyearcities",
+   "scenes": 1,
+   "rev": "6cdae699bb",
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "globe",
+   "cover": "assets/covers/edinburgh_xmas.webp"
+  },
+  {
+   "id": "paris_xmas",
+   "titles": {
+    "en": "Paris",
+    "ru": "Париж",
+    "uk": "Париж"
+   },
+   "collection": "newyearcities",
+   "scenes": 1,
+   "rev": "97e3916d17",
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ornament",
+   "cover": "assets/covers/paris_xmas.webp"
+  },
+  {
+   "id": "nuremberg",
+   "titles": {
+    "en": "Nuremberg",
+    "ru": "Нюрнберг",
+    "uk": "Нюрнберг"
+   },
+   "collection": "newyearcities",
+   "scenes": 1,
+   "rev": "f84469bbd8",
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "window",
+   "cover": "assets/covers/nuremberg_xmas.webp"
+  },
+  {
+   "id": "krakow",
+   "titles": {
+    "en": "Krakow",
+    "ru": "Краков",
+    "uk": "Краків"
+   },
+   "collection": "newyearcities",
+   "scenes": 1,
+   "rev": "933422aea2",
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "balloon",
+   "cover": "assets/covers/krakow_xmas.webp"
   }
  ]
 }
