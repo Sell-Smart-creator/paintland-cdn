@@ -671,6 +671,38 @@
    "source": "remote",
    "portalStyle": "ball",
    "cover": "assets/covers/colosseum_cafe.webp"
+  },
+  {
+   "id": "christmas_eve",
+   "titles": {
+    "en": "Christmas Eve",
+    "ru": "Уютный сочельник",
+    "uk": "Затишний святвечір"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "rev": "d5d6104c31",
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "ornament",
+   "cover": "assets/covers/cocoa_hearth.webp"
+  },
+  {
+   "id": "candy_express",
+   "titles": {
+    "en": "Gingerbread Express",
+    "ru": "Пряничный экспресс",
+    "uk": "Пряниковий експрес"
+   },
+   "collection": "newyear",
+   "scenes": 2,
+   "rev": "971886971b",
+   "free": false,
+   "new": true,
+   "source": "remote",
+   "portalStyle": "globe",
+   "cover": "assets/covers/gingerbread_town.webp"
   }
  ]
 }
