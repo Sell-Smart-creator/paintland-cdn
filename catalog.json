@@ -43,7 +43,7 @@
    "scenes": 3,
    "rev": "5bcc6f3f1b",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "balloon",
    "cover": "assets/covers/paris_walk.webp"
@@ -91,7 +91,7 @@
    "scenes": 3,
    "rev": "abd543730e",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "ball",
    "cover": "assets/covers/forest_camp.webp"
@@ -107,7 +107,7 @@
    "scenes": 3,
    "rev": "303bf1fb75",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "window",
    "cover": "assets/covers/star_lobby.webp"
@@ -123,7 +123,7 @@
    "scenes": 3,
    "rev": "6927499a0b",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "balloon",
    "cover": "assets/covers/venice_canal.webp"
@@ -171,7 +171,7 @@
    "scenes": 2,
    "rev": "fb1246a8c4",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "ornament",
    "cover": "assets/covers/winter_market.webp"
@@ -187,7 +187,7 @@
    "scenes": 2,
    "rev": "50bf0845d8",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "globe",
    "cover": "assets/covers/snowy_village.webp"
@@ -203,7 +203,7 @@
    "scenes": 2,
    "rev": "25dad8514c",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "ornament",
    "cover": "assets/covers/ice_rink.webp"
@@ -219,7 +219,7 @@
    "scenes": 2,
    "rev": "e0a72e58d5",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "globe",
    "cover": "assets/covers/forest_party.webp"
@@ -235,7 +235,7 @@
    "scenes": 2,
    "rev": "aa20842014",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "window",
    "cover": "assets/covers/gift_workshop.webp"
@@ -251,7 +251,7 @@
    "scenes": 2,
    "rev": "7935e6f561",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "ornament",
    "cover": "assets/covers/fireplace_evening.webp"
@@ -267,7 +267,7 @@
    "scenes": 2,
    "rev": "68d38db755",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "globe",
    "cover": "assets/covers/santa_workshop.webp"
@@ -283,7 +283,7 @@
    "scenes": 2,
    "rev": "dfe09488a1",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "window",
    "cover": "assets/covers/sweet_bakery.webp"
@@ -299,7 +299,7 @@
    "scenes": 2,
    "rev": "27d9cb8b77",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "ornament",
    "cover": "assets/covers/toy_shop.webp"
@@ -315,7 +315,7 @@
    "scenes": 2,
    "rev": "1060f94b86",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "globe",
    "cover": "assets/covers/winter_library.webp"
@@ -331,7 +331,7 @@
    "scenes": 2,
    "rev": "6645a1f4bc",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "ball",
    "cover": "assets/covers/gift_crafts.webp"
@@ -347,7 +347,7 @@
    "scenes": 2,
    "rev": "dbb32b94cd",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "window",
    "cover": "assets/covers/warm_cafe.webp"
@@ -363,7 +363,7 @@
    "scenes": 2,
    "rev": "9188bc13b6",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "ornament",
    "cover": "assets/covers/attic_gifts.webp"
@@ -379,7 +379,7 @@
    "scenes": 2,
    "rev": "fe7e0568e0",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "globe",
    "cover": "assets/covers/festive_hall.webp"
@@ -395,7 +395,7 @@
    "scenes": 2,
    "rev": "4af5b9e08d",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "ball",
    "cover": "assets/covers/shrine_festival.webp"
@@ -411,7 +411,7 @@
    "scenes": 2,
    "rev": "3c3231c060",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "balloon",
    "cover": "assets/covers/tokyo_street.webp"
@@ -427,7 +427,7 @@
    "scenes": 2,
    "rev": "084e58f15f",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "window",
    "cover": "assets/covers/bamboo_picnic.webp"
@@ -443,7 +443,7 @@
    "scenes": 2,
    "rev": "7fc9262b79",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "ball",
    "cover": "assets/covers/rainy_kyoto.webp"
@@ -459,7 +459,7 @@
    "scenes": 2,
    "rev": "7baae073dc",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "window",
    "cover": "assets/covers/autumn_temple.webp"
@@ -475,7 +475,7 @@
    "scenes": 2,
    "rev": "bac03c0a79",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "window",
    "cover": "assets/covers/cat_veranda.webp"
@@ -523,7 +523,7 @@
    "scenes": 1,
    "rev": "29c789525d",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "ball",
    "cover": "assets/covers/giza_explorers.webp"
@@ -539,7 +539,7 @@
    "scenes": 1,
    "rev": "54624bad77",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "balloon",
    "cover": "assets/covers/rhodes_colossus.webp"
@@ -555,7 +555,7 @@
    "scenes": 1,
    "rev": "ff32c70f2c",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "window",
    "cover": "assets/covers/zeus_statue.webp"
@@ -571,7 +571,7 @@
    "scenes": 1,
    "rev": "39e9b46f79",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "ball",
    "cover": "assets/covers/athens_acropolis.webp"
@@ -587,7 +587,7 @@
    "scenes": 1,
    "rev": "0f3ee9cfd3",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "window",
    "cover": "assets/covers/babylon_gardens.webp"
@@ -603,7 +603,7 @@
    "scenes": 1,
    "rev": "79ba5fa37d",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "balloon",
    "cover": "assets/covers/artemis_temple.webp"
@@ -619,7 +619,7 @@
    "scenes": 1,
    "rev": "ad6b69ed70",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "ball",
    "cover": "assets/covers/sphinx_picnic.webp"
@@ -635,7 +635,7 @@
    "scenes": 1,
    "rev": "a251f6e232",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "window",
    "cover": "assets/covers/halicarnassus.webp"
@@ -715,7 +715,7 @@
    "scenes": 1,
    "rev": "c47c4c3aed",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "ornament",
    "cover": "assets/covers/copenhagen_xmas.webp"
@@ -731,7 +731,7 @@
    "scenes": 1,
    "rev": "f834808a4c",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "window",
    "cover": "assets/covers/new_york_xmas.webp"
@@ -747,7 +747,7 @@
    "scenes": 1,
    "rev": "c8b52fa8de",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "balloon",
    "cover": "assets/covers/amsterdam_xmas.webp"
@@ -763,7 +763,7 @@
    "scenes": 1,
    "rev": "63136f4473",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "globe",
    "cover": "assets/covers/edinburgh_xmas.webp"
@@ -779,7 +779,7 @@
    "scenes": 1,
    "rev": "7e212fa76c",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "ornament",
    "cover": "assets/covers/paris_xmas.webp"
@@ -795,7 +795,7 @@
    "scenes": 1,
    "rev": "3010744d86",
    "free": false,
-   "new": true,
+   "new": false,
    "source": "remote",
    "portalStyle": "window",
    "cover": "assets/covers/nuremberg_xmas.webp"
